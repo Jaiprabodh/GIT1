@@ -1,0 +1,10 @@
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\bin\Debug\StreamingEasyTest.exe.config
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\bin\Debug\StreamingEasyTest.exe
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\bin\Debug\StreamingEasyTest.pdb
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\obj\Debug\StreamingEasyTest.csprojAssemblyReference.cache
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\obj\Debug\StreamingEasyTest.csproj.CoreCompileInputs.cache
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\obj\Debug\StreamingEasyTest.exe
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\obj\Debug\StreamingEasyTest.pdb
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jaiprabx\Documents\J\Jai\CPO\StreamingEasyTest\StreamingEasyTest\obj\Debug\StreamingEasyTest.csproj.CopyComplete
